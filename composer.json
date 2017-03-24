@@ -1,13 +1,13 @@
 {
-    "name": "cnvs/paper",
-    "description": "Canvas Default Appearance",
+    "name": "franksamsung/paper",
+    "description": "Canvas test Appearance",
     "keywords": ["canvas", "theme", "paper"],
     "type": "canvas-theme",
     "license": "MIT",
     "authors": [
         {
-            "name": "Todd Austin",
-            "email": "austin.todd.j@gmail.com"
+            "name": "Paul Vayanos",
+            "email": "pvayanos@gmail.com"
         }
     ],
     "extra": {
